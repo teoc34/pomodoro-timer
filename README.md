@@ -30,9 +30,11 @@ git clone https://github.com/USERNAME/pomodoro-timer.git
 cd pomodoro-timer
 3. Open index.html in your browser
 (You can simply double-click it or use the Live Server extension in VSCode)
+---
 
 ## Preview
 <img width="1462" height="831" alt="Screenshot 2025-07-16 at 14 04 05" src="https://github.com/user-attachments/assets/46b65a49-a091-424a-89f1-a8919aa66258" />
+---
 
 ## Inspiration
 This project was created as a fun way to practice JavaScript while building something useful for study routines.
